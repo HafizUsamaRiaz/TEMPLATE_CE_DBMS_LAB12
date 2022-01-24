@@ -1,1 +1,7 @@
-# TEMPLATE_CE_DBMS_LAB12
+### DBMS_Lab12
+
+Please read the word document present in the folder for questions
+
+
+
+
